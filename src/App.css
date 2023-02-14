@@ -39,5 +39,6 @@
 button {
   height: 2rem;
   margin: 10px;
-  
+  font-weight: bold;
+  font-size: 1rem;
 }
